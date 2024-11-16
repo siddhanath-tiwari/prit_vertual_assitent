@@ -1,0 +1,9 @@
+streamlit
+Flask
+requests
+python-dotenv
+pyttsx3
+
+
+keras
+tensorflow
